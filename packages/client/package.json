@@ -17,7 +17,7 @@
   ],
   "dependencies": {
     "@0no-co/graphql.web": "^1.1.2",
-    "std-env": "^3.8.1"
+    "std-env": "^3.9.0"
   },
   "devDependencies": {
     "@bigcommerce/eslint-config": "^2.11.0",
@@ -27,6 +27,6 @@
     "eslint": "^8.57.1",
     "prettier": "^3.5.3",
     "tsup": "^8.4.0",
-    "typescript": "^5.8.2"
+    "typescript": "^5.8.3"
   }
 }
